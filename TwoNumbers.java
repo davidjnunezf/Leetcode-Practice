@@ -16,7 +16,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class TwoNumbers {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
      int i=0;
      int x=0;
