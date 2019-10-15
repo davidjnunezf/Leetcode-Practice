@@ -10,7 +10,7 @@
 //Because nums[0] + nums[1] = 2 + 7 = 9,
 //return [0, 1].
 
-class Solution {
+class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] arr= new int[2];
         for(int i=1; i<nums.length; i++){
